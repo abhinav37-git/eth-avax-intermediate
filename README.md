@@ -1,4 +1,4 @@
-ETH-AVAX INTERMEDIATE 1
+# ETH-AVAX INTERMEDIATE 1
 
 ErrorHandling Contract This is a Solidity smart contract that demonstrates use of assert, revert, and require statements.
 
