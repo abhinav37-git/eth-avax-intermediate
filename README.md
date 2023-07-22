@@ -1,4 +1,10 @@
-# eth-avax-intermediate
+ETH-AVAX INTERMEDIATE 1
+
+ErrorHandling Contract This is a Solidity smart contract that demonstrates use of assert, revert, and require statements.
+
+License: This contract is using the MIT License.
+
+Prerequisites Solidity ^0.8.18
 
 Here's how the code works:
 •	Function names deposit, withdraw, checkBalance are renamed to addFunds, takeFunds, getFunds respectively to make them more intuitive.
